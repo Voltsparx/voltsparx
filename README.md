@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hey, I'm VoltSparx</h1>
+<h1 align="center">⚡ Hi there, myself Niyor Kalita</h1>
 <h3 align="center">Cybersecurity | Software Development | Web Engineering | Data Science</h3>
 
 ---
