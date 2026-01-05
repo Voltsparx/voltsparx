@@ -22,69 +22,69 @@
 ## 🧪 Tech Stack & Skills
 
 ### 🧱 System & Low-Level Programming
-- Assembly <br>
+- Assembly  <br>
   <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="40"/></a>
-- C  
+- C  <br>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-- C++  
+- C++  <br>
   <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-- Rust  
+- Rust  <br>
   <a href="https://www.rust-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40"/></a>
 
 ---
 
 ### 🧠 High-Level Programming Languages
-- Python  
+- Python  <br>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-- Java  
+- Java  <br>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-- Ruby  
+- Ruby  <br>
   <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40"/></a>
-- Go (Golang)  
+- Go (Golang)  <br>
   <a href="https://go.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
-- JavaScript  
+- JavaScript  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-- Kotlin  
+- Kotlin  <br>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"/></a>
-- C#  
+- C#  <br>
   <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
-- PHP  
+- PHP  <br>
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
 
 ---
 
 ### 🧰 Scripting & Automation
-- Bash  
+- Bash  <br>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40"/></a>
-- PowerShell  
+- PowerShell  <br>
   <a href="https://learn.microsoft.com/powershell/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40"/></a>
-- Windows Batch  
+- Windows Batch  <br>
   <a href="https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40"/></a>
 
 ---
 
 ### ⚙️ Runtimes & Platforms
-- Node.js (JavaScript Runtime)  
+- Node.js (JavaScript Runtime)  <br>
   <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-- Arduino (Embedded Platform – C/C++)  
+- Arduino (Embedded Platform – C/C++)  <br>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/></a>
 
 ---
 
 ### 📡 Messaging & Infrastructure
-- RabbitMQ (Message Broker / AMQP)  
+- RabbitMQ (Message Broker / AMQP)  <br>
   <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/></a>
 
 ---
 
 ### 🌐 Web Technologies
-- HTML  
+- HTML  <br>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-- CSS  
+- CSS  <br>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-- JavaScript  
+- JavaScript  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-- XML  
+- XML  <br>
   <a href="https://www.w3.org/XML/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" width="40"/></a>
 
 ---
