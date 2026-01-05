@@ -53,8 +53,7 @@
 - PHP  <br>
   <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
 - VBScript (VBS)  <br>
-  <a href="https://learn.microsoft.com/en-us/previous-versions//t0aew7h6(v=vs.85)" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/VBScript_logo.png" alt="vbscript" width="40"/></a>
-
+  <a href="https://learn.microsoft.com/en-us/previous-versions//t0aew7h6(v=vs.85)" target="_blank" rel="noreferrer"><img src="https://logodix.com/logo/1718712.jpg" alt="vbscript" width="40"/></a>
 ---
 
 ### 🧰 Scripting & Automation
