@@ -23,7 +23,7 @@
 
 ### 🧱 System & Low-Level Programming
 - Assembly
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://www.vectorlogo.zone/logos/intel/intel-icon.svg" width="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microchip.svg" width="40"/></a>
 - C  
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
 - C++  
