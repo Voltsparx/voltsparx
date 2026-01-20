@@ -4,7 +4,7 @@
 ---
 
 ## 👤 About Me
-- 🔐 Cybersecurity enthusiast (Offensive & Defensive)
+- 🔐 Cybersecurity learning school student (Offensive & Defensive)
 - 💻 Programmer & Software Developer  
 - 🌐 Web Designer & Web App Creator  
 - 📊 Data Science learner  
