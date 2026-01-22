@@ -162,5 +162,6 @@
 Feel free to connect, collaborate, or just say hi 👋
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voltsparx" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=voltsparx&theme=dark" />
 </p>
+
