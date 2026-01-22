@@ -4,7 +4,7 @@
 ---
 
 ## 👤 About Me
-- 🔐 Cybersecurity Learning School Student (Offensive/Defensive)  
+- ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)  
 - 💻 Programmer & Software Developer  (Learning)
 - 🌐 Web Designer & Web App Creator  (Learning)
 - 📊 Data Science Learner   
@@ -15,7 +15,7 @@
 - 📖 *Philomath* — I Love Learning nearly every Branch of Science  
 - 🎵 *Melophile* — Love Hearing and Listening to Music/Songs  
 - 🎮 Sometimes into Gaming  
-- 🧠 Introverted but Curious  
+- 🔐 Introverted but Curious  
 - 🏸 I like Playing Badminton  
 - 🎼 I like Playing Music on Piano and Guitar (Learner)  
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
