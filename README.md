@@ -4,19 +4,21 @@
 ---
 
 ## 👤 About Me
-- 🔐 Cybersecurity learning school student (Offensive & Defensive)
+- 🔐 Cybersecurity Learning School Student (Offensive/Defensive)  
 - 💻 Programmer & Software Developer  
 - 🌐 Web Designer & Web App Creator  
-- 📊 Data Science learner  
+- 📊 Data Science Learner   
 - ☕ Coffee lover — especially **cold latte**  
-- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**
+- 📚 Deep interest in **Physics, Chemistry, Maths & Quantum Mechanics, History**  
 - 🎧 *Pluviophile* — Love the peaceful sound of Rain  
-- ⚡ *Ceraunophile* — Thunder/Lightning lover  
-- 📖 *Philomath* — I love learning nearly every branch of Science  
-- 🎵 *Melophile* — Love hearing and listening to Music/Songs  
-- 🎮 Sometimes into gaming  
-- 🧠 Introverted but curious  
-- 🛰️ Founder & Owner of **Voltros Community**
+- ⚡ *Ceraunophile* — Thunder/Lightning Lover  
+- 📖 *Philomath* — I Love Learning nearly every Branch of Science  
+- 🎵 *Melophile* — Love Hearing and Listening to Music/Songs  
+- 🎮 Sometimes into Gaming  
+- 🧠 Introverted but Curious  
+- 🏸 I like Playing Badminton  
+- 🎼 I like Playing Music on Piano and Guitar (Learner)  
+- 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
 
 ---
 
