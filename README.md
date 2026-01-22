@@ -162,7 +162,8 @@
 Feel free to connect, collaborate, or just say hi 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voltsparx&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voltsparx&show_icons=true&theme=dark" />
 </p>
+
 
 
