@@ -4,7 +4,8 @@
 ---
 
 ## 👤 About Me
-- ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)  
+- ⚔️ Cybersecurity Learning School Student (Offensive/Defensive)
+- 🏫 I'm a Class 8th Student  
 - 💻 Programmer & Software Developer  (Learning)
 - 🌐 Web Designer & Web App Creator  (Learning)
 - 📊 Data Science Learner   
@@ -17,7 +18,8 @@
 - 🎮 Sometimes into Gaming  
 - 🔐 Introverted but Curious  
 - 🏸 I like Playing Badminton  
-- 🎼 I like Playing Music on Piano and Guitar (Learner)  
+- 🎼 I like Playing Music on Piano and Guitar (Learner)
+- 🪪 Birth Kernal — Aug/26
 - 🛰️ Founder & Owner of **Voltros Community** (Still Building)  
 
 ---
